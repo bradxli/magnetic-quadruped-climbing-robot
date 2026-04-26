@@ -7,7 +7,7 @@
 ## 🔥 Highlights
 
 - Electro-permanent magnetic (EPM) foot
-- Closed-loop magnetization control (< 35 ms pulse)
+- Closed-loop magnetization control
 - Force-feedback-based contact sensing
 - Robust adhesion under varying air gaps
 - **Integrated and experimentally validated on Unitree GO2 quadruped robot**
