@@ -1,4 +1,4 @@
-# Magnetic Foot Wall-Climbing Robot
+# Magnetic Quadruped Climbing Robot
 
 > A high-force-density magnetic foot with closed-loop magnetization and force-feedback control, **validated on a quadruped robot (Unitree GO2)** for wall-climbing applications.
 
