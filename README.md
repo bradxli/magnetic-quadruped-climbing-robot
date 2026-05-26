@@ -27,9 +27,7 @@ The proposed magnetic foot system has been successfully integrated into a **Unit
 
 ## 🧩 System Overview
 
-<p align="center">
-  <img src="./hardware/1.jpg" alt="System overview of the CHN-EPM magnetic foot system integrated on the Unitree GO2 quadruped wall-climbing robot" width="100%">
-</p>
+<img width="1004" height="470" alt="image" src="https://github.com/user-attachments/assets/04c67912-30e4-4b5d-96f5-6461ef1489f5" />
 
 ---
 
