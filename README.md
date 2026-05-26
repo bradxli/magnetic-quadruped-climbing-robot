@@ -33,43 +33,67 @@ The proposed magnetic foot system has been successfully integrated into a **Unit
 
 ## 🎥 Supplementary Movies
 
-The videos are arranged in a logical validation sequence, from magnetic-foot load capacity to whole-body climbing demonstrations and more challenging configurations. Each movie provides a browser-playable MP4 stream and a repository file link.
+The videos are arranged in a logical validation sequence, from magnetic-foot load capacity to whole-body climbing demonstrations and more challenging configurations. Animated GIF previews are embedded for quick viewing, with the full MP4 videos linked below each preview.
 
 ### Movie S0 - Adhesion and load validation
 
 System-level validation of the quadruped wall-climbing robot with the proposed CHN-EPM magnetic feet, including the single-foot adhesion test with a 100-kg load, whole-body adhesion on a ceiling with a 20-kg external load, and whole-body adhesion on a vertical wall with an 8-kg external load.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S0.mp4) | [Repository file](./videos/Movie%20S0.mp4)
+<p align="center">
+  <img width="640" height="480" alt="Movie S0 preview" src="./videos/gifs/movie-s0.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S0.mp4) | [Repository file](./videos/Movie%20S0.mp4)
 
 ### Movie S4 - Single magnetic foot suspending people
 
 Single CHN-EPM magnetic foot load demonstration by suspending people with body weights of 54 kg, 60 kg, and 90 kg.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S4.mp4) | [Repository file](./videos/Movie%20S4.mp4)
+<p align="center">
+  <img width="360" height="640" alt="Movie S4 preview" src="./videos/gifs/movie-s4.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S4.mp4) | [Repository file](./videos/Movie%20S4.mp4)
 
 ### Movie S1 - Vertical climbing on painted steel
 
 Vertical climbing demonstration on a painted steel wall, showing stable locomotion with the integrated magnetic feet.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S1.mp4) | [Repository file](./videos/Movie%20S1.mp4)
+<p align="center">
+  <img width="640" height="480" alt="Movie S1 preview" src="./videos/gifs/movie-s1.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S1.mp4) | [Repository file](./videos/Movie%20S1.mp4)
 
 ### Movie S2 - Vertical climbing with partial contact
 
 Vertical climbing on a perforated steel plate under partial-contact conditions, validating adhesion robustness when the magnetic feet cannot fully contact the surface.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S2.mp4) | [Repository file](./videos/Movie%20S2.mp4)
+<p align="center">
+  <img width="640" height="480" alt="Movie S2 preview" src="./videos/gifs/movie-s2.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S2.mp4) | [Repository file](./videos/Movie%20S2.mp4)
 
 ### Movie S3 - Curved-surface climbing
 
 Vertical climbing on a curved ferromagnetic surface, demonstrating adaptability to non-planar steel structures.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S3.mp4) | [Repository file](./videos/Movie%20S3.mp4)
+<p align="center">
+  <img width="360" height="640" alt="Movie S3 preview" src="./videos/gifs/movie-s3.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S3.mp4) | [Repository file](./videos/Movie%20S3.mp4)
 
 ### Movie S5 - Inverted 135-degree climbing
 
 Inverted 135-degree wall-climbing demonstration, showing the robot operating on a more challenging overhanging ferromagnetic surface.
 
-[Watch online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S5.mp4) | [Repository file](./videos/Movie%20S5.mp4)
+<p align="center">
+  <img width="360" height="640" alt="Movie S5 preview" src="./videos/gifs/movie-s5.gif" />
+</p>
+
+[Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S5.mp4) | [Repository file](./videos/Movie%20S5.mp4)
 
 ---
 
@@ -80,5 +104,6 @@ Inverted 135-degree wall-climbing demonstration, showing the robot operating on 
 - `experiments/` – Experimental validation  
 - `datasets/` – Force / current / voltage data  
 - `videos/` – Demonstration videos  
+- `videos/gifs/` – Optimized GIF previews for README display
 
 ---
