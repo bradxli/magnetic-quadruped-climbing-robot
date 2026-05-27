@@ -45,7 +45,7 @@ System-level validation of the quadruped wall-climbing robot with the proposed C
 
 [Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S0.mp4) | [Repository file](./videos/Movie%20S0.mp4)
 
-### Movie S4 - Single magnetic foot suspending people
+### Movie S1 - Single magnetic foot suspending people
 
 Single CHN-EPM magnetic foot load demonstration by suspending people with body weights of 54 kg, 60 kg, and 90 kg.
 
@@ -55,7 +55,7 @@ Single CHN-EPM magnetic foot load demonstration by suspending people with body w
 
 [Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S4.mp4) | [Repository file](./videos/Movie%20S4.mp4)
 
-### Movie S1 - Vertical climbing on painted steel
+### Movie S2 - Vertical climbing on painted steel
 
 Vertical climbing demonstration on a painted steel wall, showing stable locomotion with the integrated magnetic feet.
 
@@ -65,7 +65,7 @@ Vertical climbing demonstration on a painted steel wall, showing stable locomoti
 
 [Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S1.mp4) | [Repository file](./videos/Movie%20S1.mp4)
 
-### Movie S2 - Vertical climbing with partial contact
+### Movie S3 - Vertical climbing with partial contact
 
 Vertical climbing on a perforated steel plate under partial-contact conditions, validating adhesion robustness when the magnetic feet cannot fully contact the surface.
 
@@ -75,7 +75,7 @@ Vertical climbing on a perforated steel plate under partial-contact conditions, 
 
 [Watch full MP4 online](https://media.githubusercontent.com/media/bradxli/magnetic-quadruped-climbing-robot/main/videos/Movie%20S2.mp4) | [Repository file](./videos/Movie%20S2.mp4)
 
-### Movie S3 - Curved-surface climbing
+### Movie S4 - Curved-surface climbing
 
 Vertical climbing on a curved ferromagnetic surface, demonstrating adaptability to non-planar steel structures.
 
