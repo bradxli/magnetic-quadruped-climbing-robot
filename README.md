@@ -27,7 +27,7 @@ The proposed magnetic foot system has been successfully integrated into a **Unit
 
 ## 🧩 System Overview
 
-<img width="1004" height="470" alt="image" src="https://github.com/user-attachments/assets/04c67912-30e4-4b5d-96f5-6461ef1489f5" />
+<img width="1004" height="470" alt="System overview" src="./hardware/1.jpg" />
 
 ---
 
