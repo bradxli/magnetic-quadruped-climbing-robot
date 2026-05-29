@@ -122,7 +122,7 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 
 **Collaborating Institutions:** Nanyang Technological University (NTU) and Huazhong University of Science and Technology (HUST)
 
-**Technical Lead / Repository Maintainer:** An Li / Bradley Li, Nanyang Technological University (NTU)  
+**Technical Lead / Repository Maintainer:** An Li, Nanyang Technological University (NTU)  
 **Contact:** [an.li@ntu.edu.sg](mailto:an.li@ntu.edu.sg)
 
 **Academic Advisors / Principal Investigators:** Bo Tao (HUST), I-Ming Chen (NTU), and Han Ding (HUST)
