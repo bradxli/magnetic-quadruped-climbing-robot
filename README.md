@@ -120,16 +120,8 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 
 ## 👥 Project Team
 
-**Project Lead:** Brad / An. Li
+**Project Lead:** Bradley / An. Li ([Bradxlian@gmail.com](mailto:Bradxlian@gmail.com))
 
-**Core Contributors:**
-
-- 张苏灿
-- 方体泓
-- 陈祥桢
-- 张开杰
-- 郭东昊
-- 彭恩磊
-- 庄淇杰
+**Core Contributors:** Sucan Zhang, Tihong Fang, Xiangzhen Chen, Kaijie Zhang, Donghao Guo, Enlei Peng, and Qijie Zhuang.
 
 ---
