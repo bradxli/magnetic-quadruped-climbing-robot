@@ -9,7 +9,7 @@
 **High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
 An Li, Bo Tao, I-Ming Chen, and Han Ding
 
-[arXiv Preprint](https://arxiv.org/abs/XXXX.XXXXX) | [Project Videos](#) | [Supplementary Materials](#)
+[arXiv Preprint](https://arxiv.org/abs/XXXX.XXXXX) 
 
 ---
 
@@ -131,7 +131,7 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 
 **Collaborating Institutions:** Nanyang Technological University (NTU) and Huazhong University of Science and Technology (HUST)
 
-**Academic Advisors / Principal Investigators:** Bo Tao (HUST), I-Ming Chen (NTU), and Han Ding (HUST)
+**Academic Advisors / Principal Investigators:** Prof. Bo Tao (HUST), Prof. I-Ming Chen (NTU), and Prof. Han Ding (HUST)
 
 **Technical Lead / Repository Maintainer:** An Li, Nanyang Technological University (NTU)  
 **Contact:** [an.li@ntu.edu.sg](mailto:an.li@ntu.edu.sg)
