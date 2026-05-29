@@ -117,3 +117,19 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 - `videos/gifs/` – Optimized GIF previews for README display
 
 ---
+
+## 👥 Project Team
+
+**Project Lead:** Brad / An. Li
+
+**Core Contributors:**
+
+- 张苏灿
+- 方体泓
+- 陈祥桢
+- 张开杰
+- 郭东昊
+- 彭恩磊
+- 庄淇杰
+
+---
