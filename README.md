@@ -120,7 +120,12 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 
 ## 👥 Project Team
 
-**Project Lead:** Bradley / An. Li ([Bradxlian@gmail.com](mailto:Bradxlian@gmail.com))
+**Collaborating Institutions:** Nanyang Technological University (NTU) and Huazhong University of Science and Technology (HUST)
+
+**Technical Lead / Repository Maintainer:** An Li / Bradley Li, Nanyang Technological University (NTU)  
+**Contact:** [an.li@ntu.edu.sg](mailto:an.li@ntu.edu.sg)
+
+**Academic Advisors / Principal Investigators:** Bo Tao (HUST), I-Ming Chen (NTU), and Han Ding (HUST)
 
 **Core Contributors:** Sucan Zhang, Tihong Fang, Xiangzhen Chen, Kaijie Zhang, Donghao Guo, Enlei Peng, and Qijie Zhuang.
 
