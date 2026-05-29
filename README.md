@@ -4,15 +4,6 @@
 
 ---
 
-## 📄 Paper
-
-**High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
-An Li, Bo Tao, I-Ming Chen, and Han Ding
-
-[arXiv Preprint](https://arxiv.org/abs/XXXX.XXXXX) 
-
----
-
 ## 🔥 Highlights
 
 - Electro-permanent magnetic (EPM) foot
@@ -20,6 +11,15 @@ An Li, Bo Tao, I-Ming Chen, and Han Ding
 - Force-feedback-based contact sensing
 - Robust adhesion under varying air gaps
 - **Integrated and experimentally validated on Unitree GO2 quadruped robot**
+
+---
+
+## 📄 Paper
+
+**High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
+An Li, Bo Tao, I-Ming Chen, and Han Ding
+
+[arXiv Preprint](https://arxiv.org/abs/XXXX.XXXXX) 
 
 ---
 
