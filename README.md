@@ -19,7 +19,7 @@
 **High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
 An Li, Bo Tao, I-Ming Chen and Han Ding
 
-[arXiv Preprint](https://doi.org/10.48550/arXiv.2605.30849) 
+[arXiv Preprint: https://doi.org/10.48550/arXiv.2605.30849 ](https://doi.org/10.48550/arXiv.2605.30849) 
 
 ---
 
