@@ -14,15 +14,6 @@
 
 ---
 
-## 📄 Paper
-
-**High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
-An Li, Bo Tao, I-Ming Chen and Han Ding
-
-[arXiv Preprint: https://doi.org/10.48550/arXiv.2605.30849 ](https://doi.org/10.48550/arXiv.2605.30849) 
-
----
-
 ## 🤖 Real Robot Integration (GO2)
 
 The proposed magnetic foot system has been successfully integrated into a **Unitree GO2 quadruped robot**, enabling:
@@ -127,6 +118,14 @@ Wall transition climbing demonstration, showing the robot moving from a curved s
 
 ---
 
+## 📄 Paper
+
+**High-Load-Density Electro-Permanent Magnetic Foot with Controllable Adhesion for Quadruped Wall-Climbing Robots**  
+An Li, Bo Tao, I-Ming Chen and Han Ding
+
+[arXiv Preprint: https://doi.org/10.48550/arXiv.2605.30849 ](https://doi.org/10.48550/arXiv.2605.30849) 
+
+---
 ## 👥 Project Team
 
 **Collaborating Institutions:** Huazhong University of Science and Technology (HUST) and Nanyang Technological University (NTU)
